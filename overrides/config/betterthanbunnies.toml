@@ -1,0 +1,22 @@
+
+#General settings
+[general]
+	#Chance of bunnies wearing parts of their outfit, in percentage% (0-100)
+	#Range: 0 ~ 100
+	fancyChance = 80
+
+#Settings regarding bunnies that are wearing outfits
+[outfit]
+	#Chance of bunnies wearing hats in their outfit, in percentage% (0-100)
+	#Range: 0 ~ 100
+	hatChance = 100
+	#Chance of bunnies wearing a monocle in their outfit, in percentage% (0-100)
+	#Range: 0 ~ 100
+	monocleChance = 100
+	#Chance of bunnies having a pipe in their outfit, in percentage% (0-100)
+	#Range: 0 ~ 100
+	pipeChance = 100
+	#Chance of bunnies wearing a suit in their outfit, in percentage% (0-100)
+	#Range: 0 ~ 100
+	suitChance = 100
+

@@ -1,0 +1,5 @@
+
+[modules]
+	#Everything that's found in the world and worldgen
+	TinkerWorld = true
+

@@ -1,0 +1,19 @@
+
+#General configuration options.
+[General]
+	#The amount of uses the basic Infusion Crystal should have.
+	#Range: > 10
+	infusionCrystalUses = 1000
+	#The amount of time in seconds between each Growth Accelerator growth tick.
+	#Range: > 1
+	growthAcceleratorCooldown = 10
+	#The percentage chance that a passive or hostile mob will drop an Inferium Essence when killed.
+	#Range: 0.0 ~ 1.0
+	inferiumDropChance = 0.2
+
+#World generation options.
+[World]
+	#The percentage chance a Soulium Ore spawns in a Soulstone cluster.
+	#Range: 0.0 ~ 1.0
+	souliumOreChance = 0.05
+
